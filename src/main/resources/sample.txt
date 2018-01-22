@@ -1,0 +1,15 @@
+
+
+.forEach // Apply a function to each element
+.limit() // Limit stream to X elements
+.skip() // skip the first X elements
+.count() // count elements
+.distinct() // distinct elements only
+
+.filter()  // filter out unwanted elements
+.map()   // apply mapping function and return stream
+.reduce() // reduce the stream to a single element
+.collect() // collect into lists of sets, summarize stream, etc
+
+
+
